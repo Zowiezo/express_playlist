@@ -1,0 +1,28 @@
+{
+  "name": "expressjs_playlist",
+  "version": "1.0.0",
+  "description": "nodeJs, ExpressJs, JSON and TDD(Jasmine) with front-end(HTML)",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zowiezo/express_playlist.git"
+  },
+  "keywords": [
+    "ExpressJs",
+    "NodeJs",
+    "TDD(Jasmine)",
+    "HTML"
+  ],
+  "author": "Zoleka Kubheka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zowiezo/express_playlist/issues"
+  },
+  "homepage": "https://github.com/Zowiezo/express_playlist#readme",
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
