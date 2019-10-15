@@ -47,7 +47,6 @@ app.get('/api/musician', (req, res, next) => {
   next();
 });
 
-
 // create a playlist 
 app.post('/api/musician', (req, res) => {
   const {
