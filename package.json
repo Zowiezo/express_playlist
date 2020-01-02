@@ -1,0 +1,21 @@
+{
+  "name": "playlist_express",
+  "version": "1.0.0",
+  "description": "API which will allow you to create a Playlist of your favorite musicians and their songs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zowiezo/express_playlist.git"
+  },
+  "author": "Zoleka Kubheka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zowiezo/express_playlist/issues"
+  },
+  "homepage": "https://github.com/Zowiezo/express_playlist#readme"
+}
